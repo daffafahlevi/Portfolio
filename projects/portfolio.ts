@@ -12,7 +12,7 @@ export const portfolio: ProjectType = {
   links: [
     {
       title: "Github",
-      href: "https://github.com/Arzed/portfolio",
+      href: "https://github.com/daffafahlevi/Portfolio",
       icon: GitHubLogoIcon,
     },
   ],
