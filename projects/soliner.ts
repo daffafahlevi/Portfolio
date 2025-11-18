@@ -5,7 +5,7 @@ import picture from "@/public/soliner.png";
 export const soliner: ProjectType = {
   title: "Soliner",
   alt: "Soliner",
-  date: "Jan 2023",
+  date: "January 2023",
   picture: picture,
   description:
     "An company profile website of PT.Soliner. Includes managing user form in contact page",
